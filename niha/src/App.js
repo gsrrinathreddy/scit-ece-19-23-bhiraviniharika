@@ -8,9 +8,6 @@ import Hobbies from './pages/Hobbies';
 import Skills from './pages/Skills';
 import Experience from './pages/Experience';
 
-
-
-
 function App() {
   return (
     <div className="App">
